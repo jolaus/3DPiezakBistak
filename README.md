@@ -43,4 +43,6 @@ Aitortu-PartekatuBerdin
 CC BY-SA
 [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
 
-
+Kredituak
+---------
+Jose Pujolen [ideia batean oinarritutako](https://github.com/Josepujol/OpenSCAD-PiezasDibujo) bilduma
