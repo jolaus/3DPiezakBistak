@@ -5,7 +5,7 @@
 Oñatiko Txantxiku Ikastolako DBH4ko ikasleek Freecad-ekin diseinatutako piezen bilduma gordetzen da errepositorio honetan. Pieza hauekin helburu bi betetzea bilatu nahi izan da:
 
  1. Alde batetik, gelan ikasi dituzten Freecad-eko oinarrizko aginduak praktikan ipintzea
- 2. DBH3ko ikasleek Plastikako ikasgaian lantzen dituzten bisten inguruko ariketetan lagungarri izatea. Izan ere, asmoa da, diseinuetatik abiatuta, pieza guztiak gero inprimatzea. Horrela, ikasleek papereko ohiko perspektibaz gain solidoa bera izango dute esku artean bistak ateratzeko orduan.
+ 2. Bestetik, DBH3ko ikasleek Plastikako ikasgaian lantzen dituzten bisten inguruko ariketetan lagungarri izatea. Izan ere, pieza guztiak 3D inrpimagailu batean inprimatuko dira. Horrela, ikasleek paperean jasotako ohiko perspektibaz gain solidoa bera ukitu eta ikuspegi desberdinetatik analizatzeko aukera izango dute.
 
 Gordailu hau Jose Pujolek ([@jo_pujol](https://twitter.com/jo_pujol)) aurretik sortutako antzeko piezen errepositorio honetan (https://github.com/Josepujol/OpenSCAD-PiezasDibujo) oinarrituta dago. Piezak aukeratzeko irizpideak berak erabilitako berdinak izan dira. Bere lanaren inguruko informazio gehiago aurkituko duzue artikulu honetan: https://tecnopujol.wordpress.com/2016/10/13/proyecto-colaborativo-piezas-dibujo-con-openscad/
 
